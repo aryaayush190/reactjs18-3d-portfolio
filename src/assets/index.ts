@@ -29,6 +29,9 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import uom from "./company/uom.png";
+import codingjr from "./company/codingjr.png";
+import iitmandi from "./company/iitmandi.png";
 
 export {
   logo,
@@ -59,4 +62,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  uom,
+  codingjr,
+  iitmandi,
 };

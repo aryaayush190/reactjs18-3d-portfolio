@@ -40,12 +40,12 @@ type TConfig = {
 
 export const config: TConfig = {
   html: {
-    title: "John Doe — 3D Portfolio",
-    fullName: "John Doe",
-    email: "johndoe@mail.com",
+    title: "Ayush — 3D Portfolio",
+    fullName: "Ayush Arya",
+    email: "aryaayush190@gmail.com",
   },
   hero: {
-    name: "John Doe",
+    name: "Ayush Arya",
     p: ["I develop 3D visuals, user", "interfaces and web applications"],
   },
   contact: {
@@ -67,11 +67,11 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
+      content: `Ayush Arya
+M.Tech Artificial Intelligence | NIT Hamirpur
+AI Engineer specializing in Natural Language Processing, Conversational AI, and Large Language Models. Currently pursuing M.Tech in Artificial Intelligence at NIT Hamirpur, with expertise in building production-grade intelligent systems across healthcare, fintech, and energy sectors.
+Proven experience in designing and deploying advanced AI solutions including RAG-based conversational agents, enterprise AI copilots, and self-learning dialogue systems. Strong technical foundation in transformer architectures, LangChain, with a track record of delivering scalable systems that solve real-world problems.
+Research interests include hybrid AI architectures, multilingual NLP, and automated machine learning pipelines. Experienced in leading technical teams and translating complex AI concepts into practical applications that drive business value.`,
     },
     experience: {
       p: "What I have done so far",
@@ -79,7 +79,10 @@ export const config: TConfig = {
     },
     feedbacks: {
       p: "What others say",
-      h2: "Testimonials.",
+      h2: "Recommendations",
+      content: `Professor Varun Dutt, IIT Mandi
+      Professor Rodrigo Agerri, University of Murcia, Spain
+      Sumit Bhat, CEO Coding Jr.`,
     },
     works: {
       p: "My work",
